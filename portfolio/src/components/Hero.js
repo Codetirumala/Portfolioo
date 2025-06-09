@@ -275,7 +275,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.8 }}
           >
             <SocialLink
-              href="https://github.com/yourusername"
+              href="https://github.com/Codetirumala/"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ y: -5 }}
@@ -283,7 +283,7 @@ const Hero = () => {
               <FaGithub />
             </SocialLink>
             <SocialLink
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/reddi-lakshmi-narasimha-543a45289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ y: -5 }}

@@ -161,7 +161,7 @@ const MobileNavLink = styled(Link)`
   }
 `;
 
-const navItems = ['home', 'about', 'skills', 'projects', 'contact'];
+const navItems = ['home', 'about', 'skills', 'certifications', 'projects', 'contact'];
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);

@@ -246,7 +246,7 @@ const Skills = () => {
         <SkillsHeader>
           <h2>Skills Galaxy</h2>
           <p>
-            My main skills form a circle of expertise. Hover over a planet to see it glow!
+          A showcase of my technical and creative skills that power my projects and define my expertise
           </p>
         </SkillsHeader>
         <GalaxyWrapper style={{ maxWidth: galaxyWidth, height: galaxyWidth }}>
