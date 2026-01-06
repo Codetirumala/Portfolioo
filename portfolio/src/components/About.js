@@ -143,7 +143,7 @@ const About = () => {
             I love building modern, interactive web applications with <span className="highlight">React</span>, <span className="highlight">Node.js</span>, and exploring the world of <span className="highlight">Artificial Intelligence</span> and <span className="highlight">Machine Learning</span>.
           </p>
           <p>
-            My journey started in college and since then, I've been on a mission to create beautiful, performant, and user-friendly digital experiences. When I'm not coding, you'll find me learning new tech, contributing to open source, or writing technical blogs.
+            My journey started in college and since then I've been on a mission to create beautiful, performant, and user-friendly digital experiences. When I'm not coding, you'll find me learning new tech, contributing to open source, or writing technical blogs.
           </p>
         </AboutText>
       </AboutContentWrapper>
